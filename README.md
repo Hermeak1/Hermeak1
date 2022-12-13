@@ -14,6 +14,8 @@
 ### Experience
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-4285F4?style=plastic&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/></a> 
 
 <img src="https://img.shields.io/badge/UE5-0E1128?style=plastic&logo=UnrealEngine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/STM32-03234B?style=plastic&logo=STMicroelectronics&logoColor=white"/></a>
