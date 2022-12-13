@@ -1,8 +1,6 @@
-Intro
-=============
 
-#### 👋 New Dev arrived !
----------
+## 👋 New Dev arrived !
+
 ### 🌱 Interest
 - Socket
 - Sensor
@@ -25,4 +23,4 @@ Intro
 <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/></a>
 
-----------
+
