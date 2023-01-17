@@ -2,17 +2,17 @@
 ## 👋 New Dev arrived !
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%238A8A8A&title_bg=%234B4A4B&icon=&icon_color=%23C62828&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🌱 Interest
+### 🌱🔥🔥 Interest
 - Socket
 - Sensor
 - Vision
 - 3D Motion Capture
   
-### Main
+### ⭐ Main 
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c%2B%2B&logoColor=WHITE"/></a>
 
-### Experience
+### 📜 Experience
 
 <img src="https://img.shields.io/badge/UE5-0E1128?style=plastic&logo=UnrealEngine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/STM32-03234B?style=plastic&logo=STMicroelectronics&logoColor=white"/></a>
@@ -22,8 +22,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5CE3EE8?style=plastic&logo=OpenCV&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/></a>
--------
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-4285F4?style=plastic&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white"/></a>
@@ -31,7 +29,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/></a> 
 -------
 
-#### Art tools
+#### 🎨 Art tools
 <img src="https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=Blender&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=Adobe Photoshop&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=plastic&logo=Adobe Illustrator&logoColor=white"/></a> 
