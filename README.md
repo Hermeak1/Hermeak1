@@ -16,17 +16,24 @@
 
 <img src="https://img.shields.io/badge/UE5-0E1128?style=plastic&logo=UnrealEngine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/STM32-03234B?style=plastic&logo=STMicroelectronics&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=Blender&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5CE3EE8?style=plastic&logo=OpenCV&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/></a>
 -------
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-4285F4?style=plastic&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/></a> 
+-------
 
+#### Art tools
+<img src="https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=Blender&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=Adobe Photoshop&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=plastic&logo=Adobe Illustrator&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=plastic&logo=Adobe Premiere Pro&logoColor=white"/></a> 
 
