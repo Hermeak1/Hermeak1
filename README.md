@@ -24,10 +24,9 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5CE3EE8?style=plastic&logo=OpenCV&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-4285F4?style=plastic&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/></a> 
 -------
