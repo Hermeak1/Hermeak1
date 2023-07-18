@@ -9,7 +9,7 @@
 
 📚 Vision
 
-📚 3D Motion Capture
+📚 3D Motion Tracking
   
 ### ⭐ Main 
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/></a>
