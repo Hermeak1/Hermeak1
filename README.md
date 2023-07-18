@@ -29,11 +29,5 @@
 <img src="https://img.shields.io/badge/Java-4285F4?style=plastic&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/></a> 
--------
 
-#### 🎨 Art tools
-<img src="https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=Blender&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=Adobe Photoshop&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=plastic&logo=Adobe Illustrator&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=plastic&logo=Adobe Premiere Pro&logoColor=white"/></a> 
 
