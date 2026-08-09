@@ -36,7 +36,11 @@ Sensors, vision, and game engines — I like projects where physical hardware dr
 
 ### Stats
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hermeak1&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hermeak1&theme=default" alt="Profile details"></picture>
+
 <p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hermeak1&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&card_width=420"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Hermeak1&show_icons=true&include_all_commits=true&hide_border=true&theme=default&card_width=420" alt="GitHub stats"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermeak1&layout=compact&langs_count=8&hide_border=true&theme=github_dark&card_width=320"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermeak1&layout=compact&langs_count=8&hide_border=true&theme=default&card_width=320" alt="Top languages"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hermeak1&theme=github_dark"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hermeak1&theme=default" alt="Repos per language"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hermeak1&theme=github_dark"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hermeak1&theme=default" alt="Most commit language"></picture>
 </p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Hermeak1&theme=dark&hide_border=true"><img height="180" src="https://streak-stats.demolab.com/?user=Hermeak1&hide_border=true" alt="Commit streak"></picture>
