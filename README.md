@@ -31,3 +31,12 @@ Sensors, vision, and game engines — I like projects where physical hardware dr
 | [**MediapipeWork**](https://github.com/Hermeak1/MediapipeWork) | MediaPipe Holistic으로 춤 영상의 자세를 추적, EMA 평활로 떨림 제거 |
 | [**PY_Find_the_best_deal**](https://github.com/Hermeak1/PY_Find_the_best_deal_Data_crawling) | 다나와 크롤링으로 그래픽카드 최저가를 찾아주는 CLI |
 | [**\_\_lidar_unity\_**](https://github.com/Hermeak1/__lidar_unity_) | RPLIDAR 4대로 벽면을 터치 스크린으로 만드는 Windows 앱 |
+
+---
+
+### Stats
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hermeak1&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&card_width=420"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Hermeak1&show_icons=true&include_all_commits=true&hide_border=true&theme=default&card_width=420" alt="GitHub stats"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermeak1&layout=compact&langs_count=8&hide_border=true&theme=github_dark&card_width=320"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermeak1&layout=compact&langs_count=8&hide_border=true&theme=default&card_width=320" alt="Top languages"></picture>
+</p>
